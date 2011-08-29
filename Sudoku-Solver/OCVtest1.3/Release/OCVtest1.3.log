@@ -1,0 +1,24 @@
+﻿Build started 26/08/2011 01:06:21.
+     1>Project "C:\Users\Mikevin\Documents\Visual Studio 2010\Projects\OCVtest1.3\OCVtest1.3\OCVtest1.3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\OCVtest1.3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\OCVtest1.3.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OCVtest1.3.cpp
+         OCVtest1.3.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mikevin\Documents\Visual Studio 2010\Projects\OCVtest1.3\Release\OCVtest1.3.exe" /INCREMENTAL:NO /NOLOGO cv210.lib cxcore210.lib highgui210.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\OCVtest1.3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Mikevin\Documents\Visual Studio 2010\Projects\OCVtest1.3\Release\OCVtest1.3.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mikevin\Documents\Visual Studio 2010\Projects\OCVtest1.3\Release\OCVtest1.3.lib" /MACHINE:X86 Release\OCVtest1.3.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         OCVtest1.3.vcxproj -> C:\Users\Mikevin\Documents\Visual Studio 2010\Projects\OCVtest1.3\Release\OCVtest1.3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Mikevin\Documents\Visual Studio 2010\Projects\OCVtest1.3\Release\OCVtest1.3.exe;#1" /manifest Release\OCVtest1.3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\OCVtest1.3.unsuccessfulbuild".
+         Touching "Release\OCVtest1.3.lastbuildstate".
+     1>Done Building Project "C:\Users\Mikevin\Documents\Visual Studio 2010\Projects\OCVtest1.3\OCVtest1.3\OCVtest1.3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.11
